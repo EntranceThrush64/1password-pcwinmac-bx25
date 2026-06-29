@@ -1,4 +1,4 @@
-# 
+# Automático 1Password scripts para Mac OS | Atualizado 1Password scripts para PC Windows. Com armazenamento de senhas e alertas de atividade suspeita — otimizado para máximo desempenho em cada plataforma.
 
 
 
